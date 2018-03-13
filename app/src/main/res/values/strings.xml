@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projeto Teste De Software</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="calculadora_gasolina_alcool">Gasolina ou Álcool</string>
+</resources>
